@@ -53,7 +53,7 @@ influencehunter/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USER/influencehunter-ai.git
+git clone https://github.com/matheusbrito-dev/influencehunter-ai.git
 cd influencehunter-ai
 
 # 2. Instale as dependências
